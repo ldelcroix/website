@@ -381,6 +381,10 @@ section .container {
   color: #18d26e;
 }
 
+.about-me .content h3 span {
+  color: #fff;
+}
+
 .about-me .content ul {
   list-style: none;
   padding: 0;
