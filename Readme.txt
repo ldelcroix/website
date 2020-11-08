@@ -1,4 +1,6 @@
-Thanks for downloading this template!
+# Lucas Delcroix website
+
+## Based on
 
 Template Name: Personal
 Template URL: https://bootstrapmade.com/personal-free-resume-bootstrap-template/
